@@ -400,6 +400,9 @@ p {
 .contact-form button:hover {
   background-color: var(--accent);
 }
+.footer p {
+  color: var(--secondary);
+}
 
 @media (max-width: 768px) {
   .contact-section {
