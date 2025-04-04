@@ -400,9 +400,6 @@ p {
 .contact-form button:hover {
   background-color: var(--accent);
 }
-.footer p {
-  color: var(--secondary);
-}
 
 @media (max-width: 768px) {
   .contact-section {
@@ -413,4 +410,25 @@ p {
   .contact-right {
     width: 100%;
   }
+}
+
+.copyrights {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+.me {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+.copyrights p {
+  padding-bottom: 0;
+}
+.me p {
+  color: var(--secondary);
+  padding-top: 0;
+  margin-top: 0;
 }
