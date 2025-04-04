@@ -28,7 +28,7 @@ Welcome to my personal developer portfolio! This project showcases my journey as
 
 ## 📸 Preview
 
-
+https://jamesmuganziportfolio.netlify.app/
 ---
 
 ---
